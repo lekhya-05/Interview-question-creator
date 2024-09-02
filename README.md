@@ -8,10 +8,11 @@
 
     conda create -n interview python=3.10 -y
 
-
+'''
 
 2. activate the environment
 
+'''bash
 
     conda init bash
 
@@ -25,8 +26,11 @@
 '''bash
 
 1. git clone HTTPS link
+
 2. git add .
+
 3. git commit -m "readme updated"
+
 4. git push origin main
 
 '''
