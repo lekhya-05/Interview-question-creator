@@ -2,7 +2,7 @@
 
 ## how to run:
 
-1. create an environment
+create an environment
 
 
 
@@ -11,7 +11,7 @@
 
 
 
-2. activate the environment
+activate the environment
 
 
 
