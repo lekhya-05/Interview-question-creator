@@ -5,14 +5,15 @@
 1. create an environment
 
 
-conda create -n interview python=3.10 -y
+    conda create -n interview python=3.10 -y
 
 
 2. activate the environment
 
 
-conda init bash
-conda activate interview
+    conda init bash
+
+    conda activate interview
 
 
 ### github commands
