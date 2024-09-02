@@ -6,11 +6,13 @@
 
 
 
+
     conda create -n interview python=3.10 -y
 
 
 
 2. activate the environment
+
 
 
 
